@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\io.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\optimization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\simulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HYU\Desktop\ecm\ECM\source\App\CabacTraining\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8DACEC72-A031-32EC-83DE-4979ECE41941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D652F19E-7182-385D-B12C-3B7EDAF4374D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

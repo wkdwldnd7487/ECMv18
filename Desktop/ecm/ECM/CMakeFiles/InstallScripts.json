@@ -1,0 +1,21 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/HYU/Desktop/ecm/ECM/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/CommonLib/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/CommonAnalyserLib/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/DecoderAnalyserLib/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/DecoderLib/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/EncoderLib/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/Lib/Utilities/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/DecoderAnalyserApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/DecoderApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/EncoderApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/SEIRemovalApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/Parcat/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/StreamMergeApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/BitstreamExtractorApp/cmake_install.cmake",
+		"C:/Users/HYU/Desktop/ecm/ECM/source/App/CabacTraining/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

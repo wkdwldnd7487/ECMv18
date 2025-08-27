@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/HYU/Desktop/ecm/ECM/source/App/DecoderApp/CMakeLists.txt
+  DecApp.cpp
+  DecAppCfg.cpp
+  decmain.cpp
+  DecoderApp.vcxproj -> C:\Users\HYU\Desktop\ecm\ECM\bin\vs17\msvc-19.44\x86_64\release\DecoderApp.exe

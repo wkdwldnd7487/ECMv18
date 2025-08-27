@@ -1,0 +1,16 @@
+C:/Users/HYU/Desktop/ecm/ECM/CMakeFiles/ALL_BUILD.dir
+C:/Users/HYU/Desktop/ecm/ECM/CMakeFiles/ZERO_CHECK.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/CommonLib/CMakeFiles/CommonLib.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/CommonAnalyserLib/CMakeFiles/CommonAnalyserLib.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/DecoderAnalyserLib/CMakeFiles/DecoderAnalyserLib.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/DecoderLib/CMakeFiles/DecoderLib.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/EncoderLib/CMakeFiles/EncoderLib.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/Lib/Utilities/CMakeFiles/Utilities.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/DecoderAnalyserApp/CMakeFiles/DecoderAnalyserApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/DecoderApp/CMakeFiles/DecoderApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/EncoderApp/CMakeFiles/EncoderApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/SEIRemovalApp/CMakeFiles/SEIRemovalApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/Parcat/CMakeFiles/parcat.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/StreamMergeApp/CMakeFiles/StreamMergeApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/BitstreamExtractorApp/CMakeFiles/BitstreamExtractorApp.dir
+C:/Users/HYU/Desktop/ecm/ECM/source/App/CabacTraining/CMakeFiles/CabacTraining.dir

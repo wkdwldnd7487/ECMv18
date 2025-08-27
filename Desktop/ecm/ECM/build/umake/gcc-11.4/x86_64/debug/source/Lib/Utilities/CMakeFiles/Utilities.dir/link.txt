@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/jjw/ECM/lib/umake/gcc-11.4/x86_64/debug/libUtilities.a CMakeFiles/Utilities.dir/VideoIOYuv.cpp.o CMakeFiles/Utilities.dir/program_options_lite.cpp.o
+/usr/bin/ranlib /home/jjw/ECM/lib/umake/gcc-11.4/x86_64/debug/libUtilities.a

@@ -1,0 +1,21 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/CommonLib/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/CommonAnalyserLib/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/DecoderAnalyserLib/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/DecoderLib/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/EncoderLib/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/Lib/Utilities/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/DecoderAnalyserApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/DecoderApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/EncoderApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/SEIRemovalApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/Parcat/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/StreamMergeApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/BitstreamExtractorApp/cmake_install.cmake",
+		"/home/jjw/ECM/build/umake/gcc-11.4/x86_64/debug/source/App/CabacTraining/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

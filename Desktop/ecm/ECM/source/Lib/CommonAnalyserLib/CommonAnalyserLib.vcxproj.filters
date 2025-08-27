@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AdaptiveLoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AffineGradientSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\BilateralFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\BitStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CacheModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ChromaFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CodingStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ContextModelling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Contexts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\DepQuant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\HRD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IbcHashMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\InterPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\InterpolationFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraNnip_scalar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraPredictionNN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\LoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\LoopFilterCccm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MCTS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MatrixIntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Mv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\NNFilterUnified.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\NNInference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ParameterSetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\PicYuvMD5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Picture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ProfileLevelTier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Quant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\QuantRDOQ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RdCost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RdCostWeightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Reshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomLFNST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomTr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\SEI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\SampleAdaptiveOffset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TMP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TrQuant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TrQuant_EMT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\UnitPartitioner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\UnitTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\WeightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace_blockstatistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\CommonDefX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\InitX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\AdaptiveLoopFilter_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\AffineGradientSearch_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\BilateralFilter_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\Buffer_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\InterpolationFilter_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\Intra_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\RdCost_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse41\TrQuant_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse42\BilateralFilter_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse42\IbcHashmap_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse42\IntraNnip_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse42\Intra_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\sse42\TrQuant_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\AdaptiveLoopFilter_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\AffineGradientSearch_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\BilateralFilter_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\Buffer_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\InterpolationFilter_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\Intra_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\RdCost_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx\TrQuant_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\AdaptiveLoopFilter_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\AffineGradientSearch_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\BilateralFilter_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\Buffer_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\InterpolationFilter_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\IntraNnip_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\Intra_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\RdCost_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\avx2\TrQuant_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\libmd5\libmd5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AdaptiveLoopFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AffineGradientSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AlfFixedFilters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\AlfParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\BilateralFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\BitStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CacheModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ChromaFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CodingStatistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CodingStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\CommonDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ContextModelling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Contexts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\DepQuant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\HRD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IbcHashMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\InterPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\InterpolationFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraPredictionNN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\IntraPredictionNnModels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\LoopFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\LoopFilterCccm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MCTS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MatrixIntraPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MipData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\MotionInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Mv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\NAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\NNFilterUnified.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\NNInference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ParameterSetManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Picture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\ProfileLevelTier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Quant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\QuantRDOQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RdCost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RdCostWeightPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Reshape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Rom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomMIPFIlters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomMIPFIlters2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomNSPT_ac0130.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomNSPT_aj0175.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\RomNSPT_al0215.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\SEI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\SampleAdaptiveOffset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Slice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TMP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TrQuant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TrQuant_EMT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\TypeDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\Unit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\UnitPartitioner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\UnitTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\WeightPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace_blockstatistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace_buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace_codingstruct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\dtrace_next.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\AdaptiveLoopFilterX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\AffineGradientSearchX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\BilateralFilterX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\BufferX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\CommonDefX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\IbcHashMapX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\InterpolationFilterX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\IntraX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\RdCostX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonLib\x86\TrQuantX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\libmd5\MD5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\libmd5\libmd5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HYU\Desktop\ecm\ECM\source\Lib\CommonAnalyserLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\HYU\Desktop\ecm\ECM\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="C:\Users\HYU\Desktop\ecm\ECM\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8DACEC72-A031-32EC-83DE-4979ECE41941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{62B4880E-D7F5-30C8-8C66-4EBB02BD3500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D652F19E-7182-385D-B12C-3B7EDAF4374D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

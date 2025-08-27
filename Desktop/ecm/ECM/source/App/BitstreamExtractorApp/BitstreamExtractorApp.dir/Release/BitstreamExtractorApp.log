@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/HYU/Desktop/ecm/ECM/source/App/BitstreamExtractorApp/CMakeLists.txt
+  BitstreamExtractorApp.cpp
+  BitstreamExtractorAppCfg.cpp
+  bitstreamextractormain.cpp
+  BitstreamExtractorApp.vcxproj -> C:\Users\HYU\Desktop\ecm\ECM\bin\vs17\msvc-19.44\x86_64\release\BitstreamExtractorApp.exe
