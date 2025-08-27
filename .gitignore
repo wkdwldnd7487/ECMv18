@@ -14,3 +14,16 @@ Desktop/ecm/ECM/**/out/
 *.obj
 *.pdb
 
+
+# ECM build outputs
+Desktop/ecm/ECM/bin/
+Desktop/ecm/ECM/**/build/
+Desktop/ecm/ECM/**/out/
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+*.pdb
+
