@@ -4,3 +4,13 @@ Desktop/ecm/ECM/.vs/
 Desktop/ecm/ECM/**/.vs/
 Desktop/ecm/ECM/**/CopilotIndices/
 
+
+# ECM build outputs
+Desktop/ecm/ECM/lib/
+Desktop/ecm/ECM/**/build/
+Desktop/ecm/ECM/**/out/
+*.a
+*.o
+*.obj
+*.pdb
+
